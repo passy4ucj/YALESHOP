@@ -1,0 +1,15 @@
+{
+  "name": "yaleshop",
+  "version": "1.0.0",
+  "description": "YALESHOP MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "author": "Pascal Ojinnaka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
